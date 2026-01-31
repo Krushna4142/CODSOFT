@@ -45,11 +45,15 @@ This project helps strengthen:
   - Basic game logic
 
 ---
-Number-Game/screenshots/game-start.png
+## 📸 Screenshots
+### Number-Game Start
+![Number-Game Start]Number-Game/screenshots/game-start.png
 ---
-Number-Game/screenshots/game-guess.png
+###Number-Game guess
+![Number-Game guess]Number-Game/screenshots/game-guess.png
 ---
-Number-Game/screenshots/game-score.png
+###Number-Game score
+![Number-Game score]Number-Game/screenshots/game-score.png
 ---
 
 ## ⚙️ How the Game Works
