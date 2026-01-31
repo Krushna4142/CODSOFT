@@ -47,13 +47,13 @@ This project helps strengthen:
 ---
 ## 📸 Screenshots
 ### Number-Game Start
-![Number-Game Start]Number-Game/screenshots/game-start.png
+![Number-Game Start](screenshots/game-start.png)
 ---
 ###Number-Game guess
-![Number-Game guess]Number-Game/screenshots/game-guess.png
+![Number-Game guess](screenshots/game-guess.png)
 ---
 ###Number-Game score
-![Number-Game score]Number-Game/screenshots/game-score.png
+![Number-Game score](screenshots/game-score.png)
 ---
 
 ## ⚙️ How the Game Works
