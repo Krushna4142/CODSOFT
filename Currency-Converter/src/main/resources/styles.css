@@ -1,0 +1,67 @@
+:root {
+    -fx-base: #0f1115;
+}
+
+.root {
+    -fx-font-family: "Segoe UI", Roboto, Arial, sans-serif;
+    -fx-background-color: linear-gradient(to bottom, #0f1115, #151922);
+}
+
+.card {
+    -fx-background-color: #1b2030;
+    -fx-background-radius: 16;
+    -fx-padding: 24;
+    -fx-effect: dropshadow(gaussian, rgba(0,0,0,0.35), 18, 0, 0, 8);
+    -fx-max-width: 560;
+}
+
+.title {
+    -fx-text-fill: #e8eefc;
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+}
+
+.label {
+    -fx-text-fill: #c9d1e4;
+}
+
+.text-field, .combo-box-base {
+    -fx-background-color: #111626, #0e1320, #0e1320;
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 10, 9, 8;
+    -fx-padding: 10 12 10 12;
+    -fx-text-fill: #e2e8f7;
+    -fx-prompt-text-fill: #6b7280;
+    -fx-border-color: transparent;
+}
+
+.combo-box .list-cell { -fx-text-fill: #e2e8f7; }
+
+.primary {
+    -fx-background-color: linear-gradient(to right, #4f46e5, #06b6d4);
+    -fx-text-fill: white;
+    -fx-background-radius: 10;
+    -fx-padding: 10 14 10 14;
+    -fx-font-weight: bold;
+}
+.primary:pressed {
+    -fx-opacity: 0.9;
+}
+.primary:disabled {
+    -fx-background-color: #30364a;
+}
+
+.output {
+    -fx-background-color: #111626;
+    -fx-background-radius: 12;
+    -fx-padding: 14;
+}
+
+.result {
+    -fx-text-fill: #a7f3d0;
+    -fx-font-size: 14px;
+}
+
+.error {
+    -fx-text-fill: #fda4af;
+}
