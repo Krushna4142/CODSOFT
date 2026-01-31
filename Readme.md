@@ -29,7 +29,7 @@ A simple and clean currency converter application that converts one currency to 
 📁 Folder: `Currency-Converter`
 
 📸 Screenshots:
-![Currency Converter UI](Currency-Converter/screenshots/ui.png)
+
 ![Conversion Result](Currency-Converter/screenshots/result.png)
 
 ---
